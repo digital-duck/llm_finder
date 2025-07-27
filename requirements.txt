@@ -1,0 +1,6 @@
+sentence-transformers
+scikit-learn
+streamlit 
+pandas 
+plotly
+streamlit-aggrid
