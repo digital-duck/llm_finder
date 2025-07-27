@@ -24,7 +24,7 @@ We built **[LLM Finder](https://github.com/digital-duck/llm_finder)** to solve t
 
 ## 💡 What We Built: From 30-Minute Prototype to Production Tool
 
-![LLM-Model-Finder](https://github.com/digital-duck/llm_finder/blob/main/docs/img/blog-screenshot.png?raw=true)
+![LLM-Finder](https://github.com/digital-duck/llm_finder/blob/main/docs/img/blog-screenshot.png?raw=true)
 
 **LLM Finder** started as a simple data parsing exercise and evolved into a comprehensive business intelligence platform for AI model selection. 
 
@@ -366,7 +366,7 @@ def save_openrouter_models(models, model_path="./models"):
 git clone https://github.com/digital-duck/llm_finder
 cd llm_finder
 pip install -r requirements.txt
-streamlit run LLM_Model_Finder.py
+streamlit run LLM_Finder.py
 ```
 
 ### **Key Features to Explore**
