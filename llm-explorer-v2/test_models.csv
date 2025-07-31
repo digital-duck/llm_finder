@@ -1,0 +1,5 @@
+name,id,description,pricing,provider,category,context_length,architecture,website,capabilities,image_url
+GPT-4,openai/gpt-4,"Most capable GPT-4 model, great for complex tasks",$0.03/1K tokens,OpenAI,Paid,8192,Transformer,https://openai.com/gpt-4,"['chat', 'completion']",
+Claude 2,anthropic/claude-2,"Helpful, harmless, and honest AI assistant",$0.011/1K tokens,Anthropic,Paid,100000,Transformer,https://anthropic.com/claude,"['chat', 'completion']",
+Llama 2,meta-llama/llama-2-70b-chat,Open source large language model,Free,Meta,Free,4096,Transformer,https://ai.meta.com/llama,"['chat', 'completion']",
+Mistral 7B,mistralai/mistral-7b-instruct,High-performance open source model,Free,Mistral AI,Free,8192,Transformer,https://mistral.ai,"['chat', 'completion']",
